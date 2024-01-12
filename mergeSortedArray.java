@@ -2,6 +2,6 @@
 
 class MergeSortedArray {
     public static void main(String[] args) {
-        System.out.println("I will start from next week. I promise!");
+        System.out.println("I am an idiot!");
     }
 }
